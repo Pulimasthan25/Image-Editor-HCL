@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Pridi
+- Font Author: Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
+- Font Source: http://fonts.gstatic.com/s/pridi/v11/2sDQZG5JnZLfkfWao2krbl29.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
