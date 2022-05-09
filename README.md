@@ -43,8 +43,8 @@ A web based image editor for all your editing needs. Use stunning filters and ot
 
 ```
   ├── Images/
+        ├──Demo              contains demo images
         ├──favicon_io/IE       contains favicon and shortcut icons
-        ├──images              contains images and icons
         ├──logo                contains the logo
   ├── index.css                all the default styling of index.html
   ├── index.js                 all the functions of index.html
