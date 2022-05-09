@@ -14,7 +14,7 @@ A web based image editor for all your editing needs. Use stunning filters and ot
 
 ### Powerful filter function
 
-- Grayscale, Invert, Sepia, Blur Sharpen, Emboss, RemoveWhite, Brightness, Noise, Pixelate, ColorFilter, Tint, Multiply, Blend
+- Grayscale, Invert, Sepia, Blur, Brightness, Contrast, Hue Rotate, Opacity, Saturate
 
 | Grayscale                                                                                                          | Invert                                                                                                          | Contrast                                                                                                          | Saturate                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -24,6 +24,20 @@ A web based image editor for all your editing needs. Use stunning filters and ot
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![sepia](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Sepia.png?raw=true) | ![Blur](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Blur.png?raw=true) | ![Brightness](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Brightness.png?raw=true) | ![Hue-rotate](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Hue-rotate.png?raw=true) | ![Hue-rotate 2](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Hue-rotate2.png?raw=true) |
 
+
+## 🎨 Features
+
+- Load the image
+- Reset (With shortcut)
+- Grayscale
+- Contrast
+- Blur
+- Brightness
+- Hue Rotate
+- Invert
+- Opacity
+- Saturate
+- Sepia
 
 ## File Structure
 
