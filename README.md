@@ -1,15 +1,19 @@
 # ![UI ImageEditor](https://github.com/Pulimasthan25/Image-Editor-Code/blob/master/Images/logo/Image%20Editor%20logo.png?raw=true)
 A web based image editor for all your editing needs. Use stunning filters and other tools to create and share amazing pics!
 
+## 🎨 Features
 
-
-## Features
-
-- Apply Amazing Effects
-- Blur Filter
-- And Much More!
-
-
+- Load the image
+- Reset (With shortcut)
+- Grayscale
+- Contrast
+- Blur
+- Brightness
+- Hue Rotate
+- Invert
+- Opacity
+- Saturate
+- Sepia
 
 
 ### Powerful filter function
@@ -25,19 +29,6 @@ A web based image editor for all your editing needs. Use stunning filters and ot
 | ![sepia](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Sepia.png?raw=true) | ![Blur](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Blur.png?raw=true) | ![Brightness](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Brightness.png?raw=true) | ![Hue-rotate](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Hue-rotate.png?raw=true) | ![Hue-rotate 2](https://github.com/Pulimasthan25/Image-Editor-HCL/blob/master/Images/Demo/Hue-rotate2.png?raw=true) |
 
 
-## 🎨 Features
-
-- Load the image
-- Reset (With shortcut)
-- Grayscale
-- Contrast
-- Blur
-- Brightness
-- Hue Rotate
-- Invert
-- Opacity
-- Saturate
-- Sepia
 
 ## File Structure
 
