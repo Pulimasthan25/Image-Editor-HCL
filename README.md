@@ -9,6 +9,22 @@ A web based image editor for all your editing needs. Use stunning filters and ot
 - Blur Filter
 - And Much More!
 
+<!-
+## File Structure
+
+```
+  ├── Images/
+        ├──favicon        contains favicon and shortcut icons
+        ├──images         contains images and icons
+        ├──logo           contains the logo
+        ├──ui             contains the ui
+  ├── css/
+        ├──style.css      all the default styling of index.html
+  ├── js/
+        ├──main.js        all the functions of index.html
+  ├── index.html          main page of the website
+```
+-->
 ## 🌏 Browser Support
 
 | <img src="https://github.com/Pulimasthan25/Image-Editor-Code/blob/master/Images/Chrome.png?raw=true" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://github.com/Pulimasthan25/Image-Editor-Code/blob/master/Images/Internet%20Explorer.png?raw=true" alt="IE" width="16px" height="16px" /> Internet Explorer | <img src="https://github.com/Pulimasthan25/Image-Editor-Code/blob/master/Images/Edge.png?raw=true" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://github.com/Pulimasthan25/Image-Editor-Code/blob/master/Images/Safari.png?raw=true" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://github.com/Pulimasthan25/Image-Editor-Code/blob/master/Images/FireFox.png?raw=true" alt="Firefox" width="16px" height="16px" /> Firefox |
