@@ -3,7 +3,8 @@
 
 
 
-## Demo
+## Demo Screenshots
+Desktop View
 
 <img src="https://raw.githubusercontent.com/Pulimasthan25/Image-Editor-HCL/master/Images/Demo/Demo.png" />
 
