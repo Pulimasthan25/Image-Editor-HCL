@@ -40,7 +40,7 @@ Desktop View
 
 ```
   ├── Images/
-        ├──Demo              contains demo images
+        ├──Demo                contains demo images
         ├──favicon_io/IE       contains favicon and shortcut icons
         ├──logo                contains the logo
   ├── index.css                all the default styling of index.html
